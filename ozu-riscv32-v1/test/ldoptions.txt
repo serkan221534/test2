@@ -1,0 +1,1 @@
+/opt/riscv/riscv32-unknown-elf/lib/crt0.o /opt/riscv/lib/gcc/riscv32-unknown-elf/14.2.0/crtbegin.o --start-group -L/opt/riscv/riscv32-unknown-elf/lib -lc -lgloss --end-group -L/opt/riscv/lib/gcc/riscv32-unknown-elf/14.2.0 -lgcc /opt/riscv/lib/gcc/riscv32-unknown-elf/14.2.0/crtend.o
